@@ -51,6 +51,18 @@ Hello! I am **Niel Alfred P. Rodriguez**, a Bachelor of Science in Information T
 
 The Lost and Found Mobile Application is an Android-based system designed to help users report, search, and retrieve lost or found items within a school or community environment. The system provides a centralized platform where users can easily submit reports and browse item listings.
 
+### Login Screen
+![log in page](images/Screenshot_20260531_122823.png)
+
+### Home Page
+![Home Page](images/Screenshot_20260531_123001.png)
+
+### Report Lost Item Page
+![Report Lost Item Page](images/Screenshot_20260531_123035.png)
+
+### Report Found Item Page
+![Report Found Item Page](images/Screenshot_20260531_123042.png)
+
 ### Key Features
 
 * User Registration and Authentication
