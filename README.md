@@ -1,4 +1,4 @@
-# CpE_Portfolio_NielAlfred_Portfolio
+# CpE_Portfolio_Rodriguez_N._BSCpE3A
 # Niel Alfred P. Rodriguez - IT Portfolio
 
 ## About Me
