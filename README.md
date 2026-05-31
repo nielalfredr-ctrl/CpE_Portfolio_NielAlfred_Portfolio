@@ -40,7 +40,6 @@ Hello! I am **Niel Alfred P. Rodriguez**, a Bachelor of Science in Computer Engi
 * Firebase
 * Figma
 * Visual Studio Code
-* Arduino IDE
 
 
 # Featured Projects
